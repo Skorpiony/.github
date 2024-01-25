@@ -1,1 +1,1 @@
-# .github
+# WKS - Skorpiony
